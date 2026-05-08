@@ -1,0 +1,59 @@
+Tamable and ridable bluebacks and redbacks!
+
+Both bluebacks and redbacks can now be tamed and ridden like any other mount. In the wild they may spawn with a juvenile, which you can tame and raise like any other juveniles. When grown, it becomes a mount for you to place a saddle on and ride. You can use the Basic Riding Saddle for both.
+Comes with an updated talent tree for the Blueback and a new talent tree for the Redback to level up your mounts. 
+
+Largely inspired by JimK72's famous Bear Mount and JimK Workshop Pets, check out those as well! This mod is of course compatible with both, as well as my Buyable Zebras Mod.
+
+Used files:
+D_AICreatureType
+D_AIGrowth
+D_AISetup
+D_Mounts
+D_Saddles
+D_Tames
+D_DeployableSetup
+D_ItemsStatic
+D_ItemTemplate
+D_WorkshopItems
+D_TalentArchetypes
+D_Talents
+D_TalentTrees
+D_Deployable
+D_Itemable
+BP_NPC_Blueback Juvenile_Character
+BP_NPC_Blueback_Lava_Juvenile_Character
+BP_Mount_Blueback
+BP_Mount_Blueback_Lava
+BP_Mount_Blueback_Daisy
+BP_Workshop_Animal_Blueback
+BP_Workshop_Animal_Blueback_Lava
+If you have any other mods that affect the bluebacks, spawn zones or the workshop in the game, it might conflict, so make sure to check.
+
+Known bugs:
+Made by enabling and editing hidden existing game files, so there may be some unexpected bugs
+Animations can look a bit funky at times
+Climbing stairs is not as smooth, and they might get stuck near the top (same as Bear Mount), sometimes a little wiggle is enough to help you get up all the way
+Jumping may not be fully functional
+
+Feel free to message me if you come across other bugs that need patching. Possibly more to come!
+
+WITH ICARUS MOD MANAGER by JIMK72 (RECOMMENDED):
+
+Download the EXMODZ-file
+Open your Mod Manager
+On the right side, choose "Import EXMODZ File"
+Choose the EXMODZ-file you just downloaded (extract it from ZIP), and it will show up on the list on the left
+Add it to your list of "Mods to Install" by double-clicking on the mod name
+Merge it by itself or with other mods (there may be conflicts, so keep an eye on what is being merged)
+Play!
+
+WITHOUT MOD MANAGER:
+
+Download the PAK-file
+Navigate to your Icarus-folder (Example: C:\Program Files (x86)\Steam\steamapps\common\Icarus)
+Go to \Icarus\Content\Paks\ods. If you don't have a "Mods" folder, you can create one
+Insert the PAK-file (not a ZIP) in "Mods"
+Play!
+
+Feedback and suggestions are welcome!

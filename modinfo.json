@@ -1,0 +1,76 @@
+{
+  "mods": [
+    {
+      "name": "Ferani's Bluebacks",
+      "author": "Ferani",
+      "version": "1.1",
+      "compatibility": "All",
+      "description": "Bluebacks and Redbacks are now ridable and tamable! Find them in the wild and tame a new mount, or order one from the Workshop.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Bluebacks/FeraniBluebacks.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Bluebacks/Ferani_Bluebacks_README.md",
+      "files": {
+        "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Bluebacks/Ferani_Bluebacks.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani's Buyable Zebras",
+      "author": "Ferani",
+      "version": "1.1",
+      "compatibility": "All",
+      "description": "The zebra mounts from the Icarus: Zebra Rescue Mission DLC are now available for purchase at the workshop!",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Buyable_Zebras/Feranis_buyable_zebras_big.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Buyable_Zebras/Ferani_Buyable_Zebras_README.md",
+      "files": {
+        "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Buyable_Zebras/Ferani_Buyable_Zebras.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani's Compatible Ammo",
+      "author": "Ferani",
+      "version": "1.1",
+      "compatibility": "All",
+      "description": "Any ammunition is compatible with any firearm - except for flares.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Compatible_Ammo/Ferani_Compatible_Ammo.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Compatible_Ammo/Ferani_Compatible_Ammo_README.md",
+      "files": {
+        "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Compatible_Ammo/Ferani_Compatible_Ammo.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani's Heated Animal Bed",
+      "author": "Ferani",
+      "version": "1.2",
+      "compatibility": "All",
+      "description": "The Animal Heated Bed now actually is warm.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Heated_Animal_Bed/heatedbed.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Heated_Animal_Bed/Ferani_Heated_Animal_Bed_README.md",
+      "files": {
+        "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Heated_Animal_Bed/Ferani_Heated_Animal_Bed.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani's Lava-Proofing",
+      "author": "Ferani",
+      "version": "1.1",
+      "compatibility": "All",
+      "description": "You can build in lava without your materials burning up. Great for building bridges in volcanic areas.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Lava-Proofing/Feranislavaproofing.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Lava-Proofing/Ferani_Lava-Proofing_README.md",
+      "files": {
+        "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Lava-Proofing/Ferani_Lava-Proofing.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani's Mount Compass",
+      "author": "Ferani",
+      "version": "1.1",
+      "compatibility": "All",
+      "description": "Mount icons on the compass have no max distance.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Mount_Compass/Mountcompass.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Mount_Compass/Ferani_Mount_Compass_README.md",
+      "files": {
+        "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Mount_Compass/Ferani_Mount_Compass.EXMODZ"
+      }
+    }
+  ]
+}

@@ -1,76 +1,95 @@
 {
   "mods": [
     {
-      "name": "Ferani's Bluebacks",
+      "name": "Ferani Bluebacks",
       "author": "Ferani",
       "version": "1.1",
-      "compatibility": "All",
+      "week": "231",
+      "compatibility": "231",
       "description": "Bluebacks and Redbacks are now ridable and tamable! Find them in the wild and tame a new mount, or order one from the Workshop.",
       "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Bluebacks/FeraniBluebacks.png",
-      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Bluebacks/Ferani_Bluebacks_README.md",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Bluebacks/Ferani_Bluebacks_README",
       "files": {
-        "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Bluebacks/Ferani_Bluebacks.EXMODZ"
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Bluebacks/Ferani_Bluebacks.EXMODZ"
       }
     },
     {
-      "name": "Ferani's Buyable Zebras",
+      "name": "Ferani Compatible Ammo",
       "author": "Ferani",
       "version": "1.1",
-      "compatibility": "All",
-      "description": "The zebra mounts from the Icarus: Zebra Rescue Mission DLC are now available for purchase at the workshop!",
-      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Buyable_Zebras/Feranis_buyable_zebras_big.png",
-      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Buyable_Zebras/Ferani_Buyable_Zebras_README.md",
-      "files": {
-        "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Buyable_Zebras/Ferani_Buyable_Zebras.EXMODZ"
-      }
-    },
-    {
-      "name": "Ferani's Compatible Ammo",
-      "author": "Ferani",
-      "version": "1.1",
-      "compatibility": "All",
-      "description": "Any ammunition is compatible with any firearm - except for flares.",
+      "week": "231",
+      "compatibility": "231",
+      "description": "Any ammunition is compatible with any firearm - except for flares. Arrows and bolts can be used by both bows and crossbows. Any ammunition can be used for turrets.",
       "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Compatible_Ammo/Ferani_Compatible_Ammo.png",
       "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Compatible_Ammo/Ferani_Compatible_Ammo_README.md",
       "files": {
-        "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Compatible_Ammo/Ferani_Compatible_Ammo.EXMODZ"
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Compatible_Ammo/Ferani_Compatible_Ammo.EXMODZ"
       }
     },
     {
-      "name": "Ferani's Heated Animal Bed",
-      "author": "Ferani",
-      "version": "1.2",
-      "compatibility": "All",
-      "description": "The Animal Heated Bed now actually is warm.",
-      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Heated_Animal_Bed/heatedbed.png",
-      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Heated_Animal_Bed/Ferani_Heated_Animal_Bed_README.md",
-      "files": {
-        "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Heated_Animal_Bed/Ferani_Heated_Animal_Bed.EXMODZ"
-      }
-    },
-    {
-      "name": "Ferani's Lava-Proofing",
+      "name": "Ferani Buyable Zebras",
       "author": "Ferani",
       "version": "1.1",
-      "compatibility": "All",
+      "week": "231",
+      "compatibility": "231",
+      "description": "The zebra mounts from the Icarus: Zebra Rescue Mission DLC are now available for purchase at the workshop! Buy as many striped best friends as you wish.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Buyable_Zebras/Feranis_buyable_zebras_big.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Buyable_Zebras/Ferani_Buyable_Zebras_README.md",
+      "files": {
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Buyable_Zebras/Ferani_Buyable_Zebras.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani Lava-Proofing",
+      "author": "Ferani",
+      "version": "1.1",
+      "week": "231",
+      "compatibility": "231",
       "description": "You can build in lava without your materials burning up. Great for building bridges in volcanic areas.",
       "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Lava-Proofing/Feranislavaproofing.png",
       "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Lava-Proofing/Ferani_Lava-Proofing_README.md",
       "files": {
-        "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Lava-Proofing/Ferani_Lava-Proofing.EXMODZ"
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Lava-Proofing/Ferani_Lava-Proofing.EXMODZ"
       }
     },
     {
-      "name": "Ferani's Mount Compass",
+      "name": "Ferani Mount Compass",
       "author": "Ferani",
       "version": "1.1",
-      "compatibility": "All",
+      "week": "231",
+      "compatibility": "231",
       "description": "Mount icons on the compass have no max distance.",
       "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Mount_Compass/Mountcompass.png",
       "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Mount_Compass/Ferani_Mount_Compass_README.md",
       "files": {
-        "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Mount_Compass/Ferani_Mount_Compass.EXMODZ"
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Mount_Compass/Ferani_Mount_Compass.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani Heated Animal Bed",
+      "author": "Ferani",
+      "version": "1.2",
+      "week": "231",
+      "compatibility": "231",
+      "description": "The Animal Heated Bed now actually is warm. It now requires two electronics to craft, but it now gives off +10 degrees celsius of warmth, 25% stamina regeneration, and 25% health regeneration.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Heated_Animal_Bed/heatedbed.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Heated_Animal_Bed/Ferani_Heated_Animal_Bed_README.md",
+      "files": {
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Heated_Animal_Bed/Ferani_Heated_Animal_Bed.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani Effortless Lights",
+      "author": "Ferani",
+      "version": "1.0",
+      "week": "231",
+      "compatibility": "231",
+      "description": "Lights and candles don't need power or fuel.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Effortless_Lights/EffortlessLights.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Effortless_Lights/Ferani_Effortless_Lights_README.md",
+      "files": {
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Effortless_Lights/Ferani_Effortless_Lights.EXMODZ"
       }
     }
-  ]
-}
+   ]
+ }

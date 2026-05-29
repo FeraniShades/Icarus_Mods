@@ -2,16 +2,16 @@ Mounts follow you faster while traveling, so they don't fall behind and get lost
 
 Traveling together is just more fun, isn't it?
 
-Mounts follow you in a sprint now instead of just lazing around. Come on, we've got places to be!. Juveniles in training can also teleport to you if they get stuck. Saves a lot of time playing hide and seek with a baby that's gotten itself lost.
+Mounts follow you faster instead of just lazing around. Come on, we've got places to be!. Juveniles in training can also teleport to you if they get stuck. Saves a lot of time playing hide and seek with a baby that's gotten itself lost.
 
 Used files:
 D_TamedCreatureModifiers
 D_GrantedAuras
 D_ModifierStates
 D_Stats
-BT_FollowOwningPlayer
+D_AISetup
 
-If you have any other mods that affect BT_FollowOwningPlayer, they might conflict, so make sure to check.
+If you have any other mods that affect the mount movement speeds, they might conflict, so make sure to check.
 
 Feel free to message me if you come across any bugs that need patching.
 
@@ -28,3 +28,8 @@ Add it to your list of "Mods to Install" by double-clicking on the mod name
 Merge it by itself or with other mods (there may be conflicts, so keep an eye on what is being merged)
 Play!
 Feedback and suggestions are welcome!
+
+Version 1.1:
+Removed the BT_FollowOwnedPlayer-module, as it didn't function as intended.
+Reworked the follow-speed mechanics directly and improved acceleration.
+Note: this now edits the D_AISetup rows and may conflict with other mods that affect tame/mount movements.

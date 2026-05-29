@@ -1,94 +1,207 @@
 {
   "mods": [
     {
-      "name": "Ferani Bluebacks",
+      "name": "Ferani Gentle Paws",
       "author": "Ferani",
-      "version": "1.1",
-      "week": "231",
-      "compatibility": "231",
-      "description": "Bluebacks and Redbacks are now ridable and tamable! Find them in the wild and tame a new mount, or order one from the Workshop.",
-      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Bluebacks/FeraniBluebacks.png",
-      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Bluebacks/Ferani_Bluebacks_README",
+      "version": "1.0",
+      "compatibility": "233",
+      "description": "Tamed pets and mounts cause no damage to your buildings and deployables. Part of the Obedience Training Collection.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Gentle_Paws.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Gentle_Paws_README.md",
       "files": {
-          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Bluebacks/Ferani_Bluebacks.EXMODZ"
-      }
-    },
-    {
-      "name": "Ferani Compatible Ammo",
-      "author": "Ferani",
-      "version": "1.1",
-      "week": "231",
-      "compatibility": "231",
-      "description": "Any ammunition is compatible with any firearm - except for flares. Arrows and bolts can be used by both bows and crossbows. Any ammunition can be used for turrets.",
-      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Compatible_Ammo/Ferani_Compatible_Ammo.png",
-      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Compatible_Ammo/Ferani_Compatible_Ammo_README.md",
-      "files": {
-          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Compatible_Ammo/Ferani_Compatible_Ammo.EXMODZ"
-      }
-    },
-    {
-      "name": "Ferani Buyable Zebras",
-      "author": "Ferani",
-      "version": "1.1",
-      "week": "231",
-      "compatibility": "231",
-      "description": "The zebra mounts from the Icarus: Zebra Rescue Mission DLC are now available for purchase at the workshop! Buy as many striped best friends as you wish.",
-      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Buyable_Zebras/Feranis_buyable_zebras_big.png",
-      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Buyable_Zebras/Ferani_Buyable_Zebras_README.md",
-      "files": {
-          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Buyable_Zebras/Ferani_Buyable_Zebras.EXMODZ"
-      }
-    },
-    {
-      "name": "Ferani Lava-Proofing",
-      "author": "Ferani",
-      "version": "1.1",
-      "week": "231",
-      "compatibility": "231",
-      "description": "You can build in lava without your materials burning up. Great for building bridges in volcanic areas.",
-      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Lava-Proofing/Feranislavaproofing.png",
-      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Lava-Proofing/Ferani_Lava-Proofing_README.md",
-      "files": {
-          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Lava-Proofing/Ferani_Lava-Proofing.EXMODZ"
-      }
-    },
-    {
-      "name": "Ferani Mount Compass",
-      "author": "Ferani",
-      "version": "1.1",
-      "week": "231",
-      "compatibility": "231",
-      "description": "Mount icons on the compass have no max distance.",
-      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Mount_Compass/Mountcompass.png",
-      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Mount_Compass/Ferani_Mount_Compass_README.md",
-      "files": {
-          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Mount_Compass/Ferani_Mount_Compass.EXMODZ"
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Gentle_Paws.EXMODZ"
       }
     },
     {
       "name": "Ferani Heated Animal Bed",
       "author": "Ferani",
       "version": "1.2",
-      "week": "231",
-      "compatibility": "231",
+      "compatibility": "233",
       "description": "The Animal Heated Bed now actually is warm. It now requires two electronics to craft, but it now gives off +10 degrees celsius of warmth, 25% stamina regeneration, and 25% health regeneration.",
-      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Heated_Animal_Bed/heatedbed.png",
-      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Heated_Animal_Bed/Ferani_Heated_Animal_Bed_README.md",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Heated_Animal_Bed.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Heated_Animal_Bed_README.md",
       "files": {
-          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Heated_Animal_Bed/Ferani_Heated_Animal_Bed.EXMODZ"
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Heated_Animal_Bed.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani Lava-Proof Paws",
+      "author": "Ferani",
+      "version": "2",
+      "compatibility": "233",
+      "description": "Tamed animals and mounts are fully immune to lava and will not catch fire if they touch it. Part of the Obedience Training Collection.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Lava-Proof_Paws.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Lava-Proof_Paws_README.md",
+      "files": {
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Lava-Proof_Paws.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani Lava-Proofing",
+      "author": "Ferani",
+      "version": "1.1",
+      "compatibility": "233",
+      "description": "You can build in lava without your materials burning up. Great for building bridges in volcanic areas.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Lava-Proofing.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Lava-Proofing_README.md",
+      "files": {
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Lava-Proofing.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani Mount Compass",
+      "author": "Ferani",
+      "version": "1.1",
+      "compatibility": "233",
+      "description": "Mount icons on the compass have no max distance.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Mount_Compass.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Mount_Compass_README.md",
+      "files": {
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Mount_Compass.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani Obedient Paws",
+      "author": "Ferani",
+      "version": "1.0",
+      "compatibility": "233",
+      "description": "All tamed pets and mounts can follow orders. Part of the Obedience Training-collection.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Obedient_Paws.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Obedient_Paws_README.md",
+      "files": {
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Obedient_Paws.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani Speedy Paws",
+      "author": "Ferani",
+      "version": "1.0",
+      "compatibility": "233",
+      "description": "Pets and tames are able to keep up with you while travelling, and juveniles can teleport to you when stuck. Part of the Obedience Training-collection.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Speedy_Paws.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Speedy_Paws_README.md",
+      "files": {
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Speedy_Paws.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani Compatible Ammo",
+      "author": "Ferani",
+      "version": "1.1",
+      "compatibility": "233",
+      "description": "Any ammunition is compatible with any firearm - except for flares. Arrows and bolts can be used by both bows and crossbows. Any ammunition can be used for turrets.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Compatible_Ammo.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Compatible_Ammo_README.md",
+      "files": {
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Compatible_Ammo.EXMODZ"
       }
     },
     {
       "name": "Ferani Effortless Lights",
       "author": "Ferani",
       "version": "1.0",
-      "week": "231",
-      "compatibility": "231",
+      "compatibility": "233",
       "description": "Lights and candles don't need power or fuel.",
-      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Effortless_Lights/EffortlessLights.png",
-      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Effortless_Lights/Ferani_Effortless_Lights_README.md",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Effortless_Lights.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Effortless_Lights_README.md",
       "files": {
-          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Effortless_Lights/Ferani_Effortless_Lights.EXMODZ"
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Effortless_Lights.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani Building Stability",
+      "author": "Ferani",
+      "version": "1.0",
+      "compatibility": "233",
+      "description": "Building stability increased, huge building range for any building material, both horizontal and vertically.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Building_Stability.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Building_Stability_README.md",
+      "files": {
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Building_Stability.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani Bluebacks",
+      "author": "Ferani",
+      "version": "1.1",
+      "compatibility": "233",
+      "description": "Bluebacks and Redbacks are now ridable and tamable! Find them in the wild and tame a new mount, or order one from the Workshop.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Bluebacks.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Bluebacks_README.md",
+      "files": {
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Bluebacks.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani Buyable Zebras",
+      "author": "Ferani",
+      "version": "1.1",
+      "compatibility": "233",
+      "description": "The zebra mounts from the Icarus: Zebra Rescue Mission DLC are now available for purchase at the workshop! Buy as many striped best friends as you wish.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Buyable_Zebras.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Buyable_Zebras_README.md",
+      "files": {
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Buyable_Zebras.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani Foraging Paws",
+      "author": "Ferani",
+      "version": "1.0",
+      "compatibility": "233",
+      "description": "All animals have the grazing ability, so they can find their own food. Part of the Obedience Training Collection.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Foraging_Paws.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Foraging_Paws_README.md",
+      "files": {
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Foraging_Paws.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani Hungry Paws",
+      "author": "Ferani",
+      "version": "1.0",
+      "compatibility": "233",
+      "description": "Your tames and mounts can eat human food and gain buffs, and have 2 extra stomach spaces. Part of the Obedience Training-collection.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Hungry_Paws.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Hungry_Paws_README.md",
+      "files": {
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Hungry_Paws.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani Padded Paws",
+      "author": "Ferani",
+      "version": "1.0",
+      "compatibility": "233",
+      "description": "Mounts and tames do not take damage from defensive structures, like spikes and hedgehogs.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Padded_Paws.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Padded_Paws_README.md",
+      "files": {
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Padded_Paws.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani Sneaky Paws",
+      "author": "Ferani",
+      "version": "1.0",
+      "compatibility": "233",
+      "description": "Mounts and tames have significantly less threat, so they won't be spotted as easily. Juveniles do not get attacked at all. Part of the Obedience Training-collection.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Sneaky_Paws.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Sneaky_Paws_README.md",
+      "files": {
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Sneaky_Paws.EXMODZ"
+      }
+    },
+    {
+      "name": "Obedience Training Base Mod",
+      "author": "Ferani",
+      "version": "1.0",
+      "compatibility": "233",
+      "description": "Base mod for the Obedience Training-collection. This mod does nothing on its own, but it is the root of all Obedience Training-mods.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Obedience_Training_Base_Mod.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Obedience_Training_Base_Mod_README.md",
+      "files": {
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Obedience_Training_Base_Mod.EXMODZ"
       }
     }
    ]

@@ -193,15 +193,51 @@
       }
     },
     {
-      "name": "Obedience Training Base Mod",
+      "name": "Ferani Barren Lands",
       "author": "Ferani",
       "version": "1.0",
+      "compatibility": "233",
+      "description": "All cosmetic foliage is disabled in the game.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Barren_Lands.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Barren_Lands_README.md",
+      "files": {
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Barren_Lands.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani Homestead Expanded",
+      "author": "Ferani",
+      "version": "1.0",
+      "compatibility": "233",
+      "description": "Extended Homestead: Added functionality to many Homestead DLC items!",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Homestead_Expanded.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Homestead_Expanded.md",
+      "files": {
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Homestead_Expanded.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani Fall-proof Paws",
+      "author": "Ferani",
+      "version": "1.0",
+      "compatibility": "233",
+      "description": "Tames have no fall damage. Part of the Obedience Training Collection.",
+      "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Fall-proof_Paws.png",
+      "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Fall-proof_Paws_README.md",
+      "files": {
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Fall-proof_Paws.EXMODZ"
+      }
+    },
+    {
+      "name": "Ferani's Obedience Training Base Mod",
+      "author": "Ferani",
+      "version": "1.1",
       "compatibility": "233",
       "description": "Base mod for the Obedience Training-collection. This mod does nothing on its own, but it is the root of all Obedience Training-mods.",
       "imageURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Obedience_Training_Base_Mod.png",
       "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Obedience_Training_Base_Mod_README.md",
       "files": {
-          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Obedience_Training_Base_Mod.EXMODZ"
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Obedience_Training_Base_Mod.EXMODZ"
       }
     }
    ]

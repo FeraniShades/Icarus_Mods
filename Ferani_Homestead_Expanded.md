@@ -1,3 +1,5 @@
+Ferani Homestead Expanded 1.1
+
 Home on the range!
 
 A bunch of new functions to items from the Homestead DLC! I have tried to keep things as balanced as possible, while also trying to keep the new functions fun and usable.
@@ -53,25 +55,5 @@ BP_Hanging_Meat_A + B + C + D + E + F
 BP_ResourceStack_Fiber
 
 If you have any other mods that affect the mechanics above, they might conflict, so make sure to check.
-
-
-
-Installation:
-
-WITH EXMODZ in the ICARUS MOD MANAGER by JIMK72 (RECOMMENDED):
-Open your Mod Manager
-On the right side, choose "Import EXMODZ File"
-Choose the EXMODZ-file you just downloaded (extract it from ZIP)
-Add it to your list of "Mods to Install" (double-click on the mod name)
-Merge it with other mods / by itself
-Play!
-
-WITH PAK in the ICARUS MOD MANAGER by JIMK72 (NOT RECOMMENDED, SINCE THE MOD MAY EXPIRE FROM WEEK TO WEEK):
-Open your Mod Manager
-On the right side, choose "Extract Mod from PAK File"
-Choose the PAK-file you just downloaded (extract it from ZIP)
-Add it to your list of "Mods to Install" (double-click on the mod name)
-Merge it with other mods / by itself
-Play!
 
 Feedback and suggestions are welcome!

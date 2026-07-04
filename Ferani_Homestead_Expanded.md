@@ -1,4 +1,4 @@
-Ferani Homestead Expanded 1.1
+Ferani Homestead Expanded 1.2
 
 Home on the range!
 

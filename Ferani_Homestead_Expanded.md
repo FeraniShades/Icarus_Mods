@@ -1,4 +1,4 @@
-Ferani Homestead Expanded 1.2
+Ferani Homestead Expanded 1.3
 
 Home on the range!
 
@@ -57,3 +57,12 @@ BP_ResourceStack_Fiber
 If you have any other mods that affect the mechanics above, they might conflict, so make sure to check.
 
 Feedback and suggestions are welcome!
+
+CHANGELOG
+
+1.3
+Fixed the Homestead Herbalism Bench to function properly as a chemistry bench.
+
+
+1.2
+Fixed the Homestead Sewing Machine so it can be placed like normal.

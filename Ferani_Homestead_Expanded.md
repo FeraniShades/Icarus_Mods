@@ -60,6 +60,9 @@ Feedback and suggestions are welcome!
 
 CHANGELOG
 
+1.4
+Basic Dried Meat has updated tags, so it can be stored inside of Homestead Hanging Meat.
+
 1.3
 Fixed the Homestead Herbalism Bench to function properly as a chemistry bench.
 

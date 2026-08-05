@@ -9,7 +9,7 @@ D_ItemTemplate
 D_WorkshopItems
 D_Talents
 D_Itemable
-BP_Workshop_Animal_Zebra
+BP_Workshop_Buyable_Zebra
 
 If you have any other mods that affect the Workshop in the game, it might conflict, so make sure to check.
 
@@ -23,12 +23,10 @@ Add it to your list of "Mods to Install" by double-clicking on the mod name
 Merge it by itself or with other mods (there may be conflicts, so keep an eye on what is being merged)
 Play!
 
-WITHOUT MOD MANAGER:
-
-Download the PAK-file
-Navigate to your Icarus-folder (Example: C:\Program Files (x86)\Steam\steamapps\common\Icarus)
-Go to \Icarus\Content\Paks\ods. If you don't have a "Mods" folder, you can create one
-Insert the PAK-file (not a ZIP) in "Mods"
-Play!
 
 Feedback and suggestions are welcome!
+
+CHANGELOG:
+
+1.2
+Updated files to not conflict with Ferani's Buyable Beasts.

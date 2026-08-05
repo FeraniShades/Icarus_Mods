@@ -32,3 +32,8 @@ Insert the PAK-file (not a ZIP) in "Mods"
 Play!
 
 Feedback and suggestions are welcome!
+
+CHANGELOG:
+
+1.3
+Updated meshable to place correctly.

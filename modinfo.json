@@ -239,6 +239,17 @@
       "files": {
           "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Obedience_Training_Base_Mod.EXMODZ"
       }
-    }
+    },
+    { "name": "Ferani Baby Boom",
+    "author": "Ferani",
+    "version": "1.0",
+    "compatibility": "245",
+    "description": "Wild animals have a higher chance to spawn with a baby.",
+    "imageURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Baby_Boom.png",
+    "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Baby_Boom_README.md",
+    "files": {
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Baby_Boom.EXMODZ"
+      }
+  }
    ]
  }

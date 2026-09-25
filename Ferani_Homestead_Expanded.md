@@ -56,16 +56,23 @@ BP_ResourceStack_Fiber
 
 If you have any other mods that affect the mechanics above, they might conflict, so make sure to check.
 
+Troubleshooting:
+Icarus Mod Manager: If you are using the mod manager and have trouble with the mod, try to click "Check for IMM Update" and "Update Data Folder" on the right side, and then re-merge your mods. This fixes about 90% of the issues, such as missing or wrong icons and random weird behaviors.
+PAK-files:
+PAK-files are more likely to stop working after the weekly updates, so use at your own risk. Try using the EXMODZ-version with the Icarus Mod Manager instead. If the PAK-version breaks, send me a message and I will try to update it.
+
 Feedback and suggestions are welcome!
 
 CHANGELOG
+
+1.5
+Added new cheese recipe and made hanging meats craftable in more benches.
 
 1.4
 Basic Dried Meat has updated tags, so it can be stored inside of Homestead Hanging Meat.
 
 1.3
 Fixed the Homestead Herbalism Bench to function properly as a chemistry bench.
-
 
 1.2
 Fixed the Homestead Sewing Machine so it can be placed like normal.

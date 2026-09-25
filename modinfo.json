@@ -207,8 +207,8 @@
     {
       "name": "Ferani Homestead Expanded",
       "author": "Ferani",
-      "version": "1.4",
-      "compatibility": "239",
+      "version": "1.5",
+      "compatibility": "249",
       "description": "Extended Homestead: Added functionality to many Homestead DLC items!",
       "imageURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Homestead_Expanded.png",
       "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Homestead_Expanded.md",
@@ -249,6 +249,17 @@
     "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Baby_Boom_README.md",
     "files": {
           "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Baby_Boom.EXMODZ"
+      }
+  },
+   { "name": "Ferani Steadfast Structures",
+    "author": "Ferani",
+    "version": "1.0",
+    "compatibility": "251",
+    "description": "The game mechanic for building stability is disabled, meaning free builds and placements with less lag.",
+    "imageURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Steadfast_Structures.png",
+    "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Steadfast_Structures_README.md",
+    "files": {
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Steadfast_Structures.EXMODZ"
       }
   }
    ]

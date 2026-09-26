@@ -65,6 +65,9 @@ Feedback and suggestions are welcome!
 
 CHANGELOG
 
+1.6
+Corrected Homestead_Pitchfork recipe
+
 1.5
 Added new cheese recipe and made hanging meats craftable in more benches.
 

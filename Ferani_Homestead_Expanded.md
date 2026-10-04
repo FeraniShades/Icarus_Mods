@@ -1,5 +1,3 @@
-Ferani Homestead Expanded 1.3
-
 Home on the range!
 
 A bunch of new functions to items from the Homestead DLC! I have tried to keep things as balanced as possible, while also trying to keep the new functions fun and usable.
@@ -64,6 +62,9 @@ PAK-files are more likely to stop working after the weekly updates, so use at yo
 Feedback and suggestions are welcome!
 
 CHANGELOG
+
+1.7
+Added tag "Item.Consumable.Food.Dried.Meat" to the Hanging Meats
 
 1.6
 Corrected Homestead_Pitchfork recipe

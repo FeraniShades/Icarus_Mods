@@ -261,6 +261,17 @@
     "files": {
           "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Steadfast_Structures.EXMODZ"
       }
+  },
+    { "name": "Ferani Open Season",
+    "author": "Ferani",
+    "version": "1.0",
+    "compatibility": "253",
+    "description": "Buy any wild creature or creature bundle from the workshop for custom hunts.",
+    "imageURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Open_Season.png",
+    "readmeURL": "https://github.com/FeraniShades/Icarus_Mods/tree/main/Ferani_Open_Season_README.md",
+    "files": {
+          "exmodz": "https://github.com/FeraniShades/Icarus_Mods/blob/main/Ferani_Open_Season.EXMODZ"
+      }
   }
    ]
  }

@@ -103,9 +103,11 @@ Mounts and tames do not take damage from defensive structures, like spikes and h
 
 Mounts and tames have significantly less threat, so they won't be spotted as easily. Juveniles do not get attacked at all. 
 
-### [Ferani's Speedy Paws](https://www.nexusmods.com/icarus/mods/177)
+### [Ferani's Speedy Paws](https://www.nexusmods.com/icarus/mods/177) [OUTDATED]
 
-Mounts follow you faster while traveling, so they don't fall behind and get lost. Part of the Obedience Training Collection.
+Mounts follow you faster while traveling, so they don't fall behind and get lost.
+
+- This mod is under reconstruction. Update will follow!
 
 
 
